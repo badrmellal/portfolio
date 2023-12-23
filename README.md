@@ -1,3 +1,3 @@
 # Portfolio Badr Mellal
 
-LINK: https://badrmellal.netlify.app/
+LINK: https://badr-mellal.netlify.app/
